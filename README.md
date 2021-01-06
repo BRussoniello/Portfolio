@@ -11,4 +11,4 @@ This paper served as the final project for the course STA5167 - Statistics in Ap
 
 # A Transcriptome Wide Association Study in Conjunction With Fine-mapping Identifies Four Potentially Causal Genes For Neuroticism
 
-This paper served as the final project for the course STA5934 - Statistical Genetics. In this paper, Hunter Melton (Florida State University) and I conducted a TWAS and Fine-mapping to identify genes that explained the association signal of genes and presence of neuroticism in European subjects.
+This paper served as the final project for the course STA5934 - Statistical Genetics. In this paper, Hunter Melton (Florida State University) and I conducted a TWAS and Fine-mapping to identify genes that explained the association signal of genes and presence of neuroticism in European subjects. Further details of the analysis conducted can be found at https://github.com/BRussoniello/Statistical-Genetics-Project
