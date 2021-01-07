@@ -1,5 +1,7 @@
 # Portfolio
 
+The purpose of this repository is to host school projects that have helped me to develop my competency in various areas of Statistics. 
+
 # Survival Analysis in the Presence of Competing Risks
 
 This paper served as the final project for the course STA5198 - Epidemiology for Statisticians. In this paper, I reviewed some of the current methodology available for the
